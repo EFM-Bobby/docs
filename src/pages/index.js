@@ -254,9 +254,6 @@ const Page = () => (
             <IndexCardLink to="/partner_docs/RepostorGuide">
               Repostor Data Protector for PostgreSQL
             </IndexCardLink>
-            <IndexCardLink to="/partner_docs/Swarm64Guide">
-              Swarm64 DA
-            </IndexCardLink>
             <IndexCardLink to="/partner_docs/ThalesGuide">
               Thales CipherTrust Transparent Encryption
             </IndexCardLink>
